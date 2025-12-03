@@ -1,0 +1,24 @@
+# Dependencias
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Expo / React Native
+.expo/
+.expo-shared/
+dist/
+web-build/
+.android/
+.ios/
+
+# Configuración local
+.env
+.env.*.local
+.expo-env.d.ts
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
